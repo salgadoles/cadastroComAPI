@@ -1,0 +1,51 @@
+body {
+    background: url(https://th.bing.com/th/id/R.bdae5108d2dd6703b2cbde3009102173?rik=gRv1Y8mYh1lV%2fQ&riu=http%3a%2f%2f3.bp.blogspot.com%2f-AHkoXR0njkI%2fUXWrURtbnGI%2fAAAAAAAADAw%2fnVn3DnYuX1c%2fs1600%2ff1.jpeg&ehk=6GQRr6RvrTvser%2bDHKLoxMRZjtTUK2w0Deh3YU%2btCUs%3d&risl=&pid=ImgRaw&r=0);
+    background-size: cover;
+    background-attachment: fixed;
+    color: black;
+}
+ 
+.card {
+    background-color: transparent ;
+    filter: blur(10px);
+ 
+}
+ 
+label {
+    color: white;
+    text-shadow: 1px 1px 2px black;
+}
+ 
+.btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+ 
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+img{
+    position: absolute;
+    left: 60%;
+    bottom: 45%;
+    width: 30%;
+}
+ 
+.container-sm {
+   
+    background-color: rgba(255, 255, 255, 0.303);
+    height: 100vh;
+    border-radius: 50px;
+   
+   
+}
+label {
+    color: rgb(255, 255, 255);
+}
+input{
+    outline:none;
+    border-bottom:none;
+}
+ 
+ 
+ 
